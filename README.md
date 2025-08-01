@@ -26,12 +26,15 @@ This repository is my way of documenting and showcasing my growth in Python prog
 │
 ├── 📁 data_science/               
 │   ├── startAI_Numpy.py
+|   |── pandas_training.py
 │   ├── startAI_Pandas.py
 │   ├── pandas_training_advanced.py
 │   └── ...
 │
 ├── 📁 computer_vision/            
 │   ├── startAI_matplotlib.py
+│   ├── startCV_hello.py
+│   ├── startCV_morePractice1.py
 │   ├── edge_test.py
 │   ├── blur_test.py
 │   └── ...

@@ -13,6 +13,7 @@ This repository is my way of documenting and showcasing my growth in Python prog
 
 ## 🧱 Folder Structure
 
+```
 📁 SSProgrammer-AI-Journey-with-Python/
 │
 ├── README.md
@@ -45,6 +46,7 @@ This repository is my way of documenting and showcasing my growth in Python prog
 │   ├── Hafez_Fal.py
 │   └── ...
 
+```
 
 ---
 

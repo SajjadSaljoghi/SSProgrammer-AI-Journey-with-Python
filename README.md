@@ -40,7 +40,9 @@ This repository is my way of documenting and showcasing my growth in Python prog
 │   ├── blur_test.py
 │   └── ...
 │
-├── 📁 mini_projects/              
+├── 📁 mini_projects/
+├───|── 📁 Work_With_File/
+│   |    ├── store.py              
 │   ├── Hangman.py
 │   ├── RememberNumbers.py
 │   ├── TicTacToe.py

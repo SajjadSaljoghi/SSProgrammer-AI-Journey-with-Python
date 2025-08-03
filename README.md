@@ -22,6 +22,7 @@ This repository is my way of documenting and showcasing my growth in Python prog
 │
 ├── 📁 python_basics/              
 │   ├── dict_set.py
+│   ├── function1.py
 │   └── ...
 │
 ├── 📁 data_science/               

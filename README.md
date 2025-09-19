@@ -24,7 +24,11 @@ This repository is my way of documenting and showcasing my growth in Python prog
 │   ├── dict_set.py
 │   ├── function1.py
 │   └── ...
-│
+├── 📁 game/
+│   ├── main.py
+│   ├── enemy.py
+│   └── ...
+|
 ├── 📁 data_science/               
 │   ├── startAI_Numpy.py
 |   |── pandas_training.py
@@ -112,6 +116,7 @@ I'm learning with guidance from a virtual mentor. My learning strategy includes:
 - ⭕❌ TicTacToe Game  
 - 📊 Data Visualization with Matplotlib  
 - 📷 Edge Detection and Image Filtering with OpenCV
+- 🎮 Interstaller Game with PyGame
 
 ---
 
